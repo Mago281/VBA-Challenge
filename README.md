@@ -16,15 +16,15 @@ ________________________________________
 
 **1.  Retrieval of Data & Column Creation**
 
-   The script loops through one year of stock data and reads/stores all of the following values from each row:
+   Created a script that looped through all the stocks for one year of stock data and read/stored all of the following values from each row:
 
    -  ticker symbol 
 
-   -  volume of stock
+   -  total stock volume 
 
-   -  open price
+   -  columns 1 and 2 were populated with the values for the ticker:  Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-   -  close price
+   -  the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
 
 
