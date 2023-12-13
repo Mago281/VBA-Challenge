@@ -27,18 +27,6 @@ ________________________________________
    -  the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
 
-
-    Created a script that looped through all the stocks for one year and read/stored the following values from each row:
-
-    ticker symbol
-
-    total stock volume
-
-    columns 1 and 2 are populated with the values for the ticker: Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-
-    the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
-  
-
 **2.  Conditional Formatting**
 
   Used conditional formatting in Column J (yearly change) to highlight positive changes in green and negative changes in red.
