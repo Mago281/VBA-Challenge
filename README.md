@@ -18,13 +18,13 @@ ________________________________________
 
     Created a script that looped through all the stocks for one year and read/stored the following values from each row:
 
-    -  ticker symbol
+    ticker symbol
 
-    -  total stock volume
+    total stock volume
 
-    -  Columns 1 and 2 are populated with the values for the ticker: Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+    columns 1 and 2 are populated with the values for the ticker: Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-    -  The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+    the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
   
 
 **2.  Conditional Formatting**
