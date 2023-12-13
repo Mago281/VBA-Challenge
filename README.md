@@ -11,19 +11,20 @@ Two excel files were provided for this challenge:
 <img src = 'https://github.com/Mago281/VBA-Challenge/assets/131424690/e4c520ca-6b5f-4cce-8fed-9f9b2218328a' width = '170' height = '60'>
 
 ________________________________________
+
 ### Steps undertaken
 
 **1.  Retrieval of Data & Column Creation**
 
     Created a script that looped through all the stocks for one year and read/stored the following values from each row:
 
-  -  ticker symbol
+    -  ticker symbol
 
-  -  total stock volume
+    -  total stock volume
 
-  -  Columns 1 and 2 are populated with the values for the ticker: Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+    -  Columns 1 and 2 are populated with the values for the ticker: Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-  -  The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+    -  The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
   
 
 **2.  Conditional Formatting**
@@ -34,11 +35,12 @@ ________________________________________
 **3.  Calculated Values**
 
   Ensured that all three of the following values were calculated correctly and displayed in the output:
-    *  Greatest % Increase
+  
+    *  `Greatest % Increase`
     
-    *  Greatest % Decrease
+    *  `Greatest % Decrease`
     
-    *  Greatest Total Volume
+    *  `Greatest Total Volume`
 
 
 **4.  Looping Across Worksheet**
@@ -53,7 +55,7 @@ ________________________________________
 
 ### Bonus
 
-Added functionality to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
+Added functionality to the script to return the stock with the `"Greatest % increase"`, `"Greatest % decrease"`, and `"Greatest total volume"`. 
 
 The solution match the following image:
 
