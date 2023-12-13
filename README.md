@@ -8,7 +8,7 @@ ________________________________________
 The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.  I have used VBA scripting to analyse generated stock market data in this challenge.
 Two excel files were provided for this challenge:
 
-<img src = 'https://github.com/Mago281/VBA-Challenge/assets/131424690/e4c520ca-6b5f-4cce-8fed-9f9b2218328a' width = '170' height = '65'>
+<img src = 'https://github.com/Mago281/VBA-Challenge/assets/131424690/e4c520ca-6b5f-4cce-8fed-9f9b2218328a' width = '170' height = '50'>
 
 ________________________________________
 ### Steps undertaken
