@@ -36,19 +36,7 @@ ________________________________________
 
   Ensured that all three of the following values were calculated correctly and displayed in the output:
 
-      Greatest % Increase 
-      
-      Greatest % Decrease 
-      
-      Greatest Total Volume 
-      
-  
-  
-    -  `Greatest % Increase`
-    
-    -  `Greatest % Decrease`
-    
-    -  `Greatest Total Volume`
+      Greatest % Increase
 
 
 **4.  Looping Across Worksheet**
