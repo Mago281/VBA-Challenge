@@ -59,15 +59,15 @@ Added functionality to the script to return the stock with the `"Greatest % incr
 
 The solution match the following image:
 
-1.	Values were populated in columns P and Q.
+1.	 Values were populated in columns P and Q.
 
-2.	Number formatting was applied to relevant cells in column Q.
+2.	 Number formatting was applied to relevant cells in column Q.
 
-3.	Headings were added to columns O, P and Q.
+3.	 Headings were added to columns O, P and Q.
 
-4.	Formatting (bold text and autofit width) were applied to the results.
+4.	 Formatting (bold text and autofit width) were applied to the results.
 
-5.	Steps 1 to 8 were then repeated on all worksheets.
+5.	 Steps 1 to 8 were then repeated on all worksheets.
 
  
 
